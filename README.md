@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 
+
+我是kok，这里应该写一点自我介绍，先挖个坑等过几天再来填吧。
+
+### Blog 
+
+https://wocai.de
+
+
 
 <!--
 **kokdemo/kokdemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
